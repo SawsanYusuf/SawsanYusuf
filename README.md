@@ -40,14 +40,21 @@ I specialize in:
 
 ### ✨ Key Projects & Achievements
 
-During my Data Scientist Intern role at SHAI For AI and through independent projects, I have:
+Here are some highlights of my work, including significant contributions during my Data Scientist Internship and independent projects:
 
-* ✅ **Contributed to AI-Powered Solutions:** Applied data science principles to real-world challenges during my internship at SHAI For AI.
-* 🌿 **Pioneered Deep Learning for Agricultural Diagnostics:** Developed a PyTorch-based model (ResNet-18) for **Cassava Disease Classification in Uganda**, achieving an impressive **98.59% accuracy** on unseen test data for 5 distinct leaf conditions.
-* 🩺 **Built a High-Accuracy COVID-19 Detection System:** Created a deep learning model for automated COVID-19 detection from Chest X-rays, achieving a **Kaggle Mean F1-Score of 93.69%**.
-* 🏡 **Developed Predictive Models for Economic & Financial Insights:**
-    * **House Price Prediction in Argentina:** Built a machine learning model to forecast residential property values.
-    * **Bankruptcy Prediction in Poland:** Designed a classification model to assess bankruptcy risk for Polish firms.
+#### 💼 Data Scientist Intern | SHAI for AI – Jordan | June 2023 – January 2024
+
+* **Diamond Price Prediction:** Built a regression model achieving **98.17% accuracy** to estimate diamond prices using key attributes.
+* **Music Genre Classification:** Created an ensemble model that accurately classified approximately **14,000 audio tracks with 94% accuracy**.
+* **Customer Clustering:** Applied K-means clustering on over **9,000 credit card records** to define distinct market segments for targeted marketing strategies.
+* **COVID-19 Detection (CNN):** Developed a deep learning model utilizing chest X-ray images, achieving **95% detection accuracy** for COVID-19.
+* **Sentiment Analysis (LSTM):** Constructed a deep learning NLP pipeline with **91% accuracy** for classifying movie review sentiment.
+
+#### 🌟 Independent & Advanced Projects
+
+* 🌿 **Cassava Disease Classification (Uganda):** Developed a PyTorch-based model (ResNet-18) achieving an impressive **98.59% accuracy** on unseen test data for 5 distinct cassava leaf conditions.
+* 🏡 **House Price Prediction (Argentina):** Built a machine learning model to forecast residential property values based on various features.
+* 🏦 **Bankruptcy Prediction (Poland):** Designed a classification model to assess bankruptcy risk for Polish firms.
 * 📊 **Proficient in Data Analysis & Visualization:** Expertly used **Python, SQL, and Tableau** to explore data, create insightful dashboards, and communicate findings effectively.
 * 🤝 **Led & Collaborated on Complex Projects:** Managed projects that analyzed high-dimensional datasets and provided actionable insights to support decision-making.
 
