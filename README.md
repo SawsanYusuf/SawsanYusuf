@@ -18,8 +18,6 @@ With a **Mechatronics Engineering degree from The Hashemite University**, I vent
 I specialize in:
 
 * **Machine Learning** & **Deep Learning**
-* **Natural Language Processing (NLP)**
-* **Time Series Forecasting**
 * **Customer Segmentation & Market Insights**
 * **Data Wrangling & Visualization**
 
