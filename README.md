@@ -67,4 +67,5 @@ I’m always eager to collaborate, learn, and grow in the data science field.
 Feel free to reach out:
 
 📧 **[sawsanyusuf99@gmail.com](mailto:sawsanyusuf99@gmail.com)**
-🔗 **[https://www.linkedin.com/in/sawsan-yusuf-027b2b214](https://www.linkedin.com/in/sawsan-yusuf-027b2b214)
+
+🔗 **[https://www.linkedin.com/in/sawsan-yusuf-027b2b214](https://www.linkedin.com/in/sawsan-yusuf-027b2b214)**
